@@ -7,7 +7,7 @@ using System.Web.Routing;
 using System.Web.Security;
 using System.Web.SessionState;
 
-namespace laboratorio3
+namespace proyecto_ti
 {
     public class Global : HttpApplication
     {

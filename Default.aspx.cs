@@ -5,7 +5,7 @@ using System.Web;
 using System.Web.UI;
 using System.Web.UI.WebControls;
 
-namespace laboratorio3
+namespace proyecto_ti
 {
     public partial class _Default : Page
     {
