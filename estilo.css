@@ -1,0 +1,65 @@
+﻿body {
+    background-color: lightskyblue;
+}
+
+* {
+    font-family: Verdana,Arial,sans-serif;
+}
+
+h1 {
+    font-size: 40px;
+}
+
+p {
+    font-size: 18px;
+}
+
+input[type=text], input[type=email] {
+    border: 2px solid;
+    border-radius: 5px;
+    padding: 5px 8px;
+    font-size: 15px;
+}
+
+input[type=radio] {
+    height: 24px;
+    width: 24px;
+    transform: translateY(5px);
+}
+
+div {
+    font-size: 18px;
+}
+
+select {
+    border: 2px solid;
+    padding: 5px 8px;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+textarea {
+    border: 2px solid;
+    border-radius: 8px;
+    padding: 5px 8px;
+    margin-top: 8px;
+    font-size: 15px;
+}
+
+#Enviar, #Limpiar, #Cookies, #Salir {
+    width: 300px;
+    cursor: pointer;
+    font-size: 18px;
+    padding: 16px 32px;
+    border: none;
+    background-color: #e2e2e2;
+    transition-duration: 0.4s;
+}
+
+    #Limpiar:hover, #Enviar:hover, #Cookies:hover, #Salir:hover {
+        background-color: #c2c2c2;
+    }
+
+    #Limpiar:active, #Enviar:active, #Cookies:active, #Salir:active {
+        background-color: #6e6e6e;
+    }
