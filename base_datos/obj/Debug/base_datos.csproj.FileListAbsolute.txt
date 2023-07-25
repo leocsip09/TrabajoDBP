@@ -1,0 +1,8 @@
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\bin\Debug\base_datos.exe.config
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\bin\Debug\base_datos.exe
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\bin\Debug\base_datos.pdb
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\obj\Debug\base_datos.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\obj\Debug\base_datos.csproj.SuggestedBindingRedirects.cache
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\obj\Debug\base_datos.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\obj\Debug\base_datos.exe
+C:\Users\pc\Desktop\Visual Studio\ASP.NET\base_datos\obj\Debug\base_datos.pdb
