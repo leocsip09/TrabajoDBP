@@ -7,11 +7,16 @@ using System.Web.UI.WebControls;
 
 namespace proyecto_ti
 {
-    public partial class Contact : Page
+    public partial class Registrarse : System.Web.UI.Page
     {
         protected void Page_Load(object sender, EventArgs e)
         {
 
+        }
+
+        protected void Volver_Inicio(object sender, EventArgs e)
+        {
+            Response.Redirect("Pagina_Inicio");
         }
     }
 }

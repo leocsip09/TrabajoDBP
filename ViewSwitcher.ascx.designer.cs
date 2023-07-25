@@ -7,7 +7,7 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace laboratorio3 {
+namespace proyecto_ti {
     
     
     public partial class ViewSwitcher {
